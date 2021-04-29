@@ -5,3 +5,4 @@
 17/08/2020			348			 1024x768
 17/08/2020			348			 1024x768		Nich FPS+
 18/08/2020			358			 1024x768		Alterado comandos de desempenho na CFG, e opções da placa de vídeo
+28/04/2021			354			 1024x768		Instalado NVME (feito somente 1 teste)
